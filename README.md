@@ -15,6 +15,6 @@ $ sh install.sh
  DEFACE | lolcat
  AUTHOR : H3YH4X"
  TEAM   : H3YH4X XPLOIT"
- CONTACT: +1 516 252 6800"
+ CONTACT: +1 702 744 0682"
  Support: Mr.H3YH4X"
  Thx All: Member"
